@@ -1,0 +1,54 @@
+c:\users\computer x\documents\visual studio 2013\Projects\NFYProject\NFYProject\bin\NFYProject.dll.config
+c:\users\computer x\documents\visual studio 2013\Projects\NFYProject\NFYProject\bin\NFYProject.dll
+c:\users\computer x\documents\visual studio 2013\Projects\NFYProject\NFYProject\bin\NFYProject.pdb
+c:\users\computer x\documents\visual studio 2013\Projects\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+c:\users\computer x\documents\visual studio 2013\Projects\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+c:\users\computer x\documents\visual studio 2013\Projects\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\bin\NFYProject.dll.config
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\bin\NFYProject.dll
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\bin\NFYProject.pdb
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\bin\NFYProject.dll.config
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\bin\NFYProject.dll
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\bin\NFYProject.pdb
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\waseem-Pc\Desktop\sir zahid\NFYProject\NFYProject\bin\NFYProject.dll.config
+C:\Users\waseem-Pc\Desktop\sir zahid\NFYProject\NFYProject\bin\NFYProject.dll
+C:\Users\waseem-Pc\Desktop\sir zahid\NFYProject\NFYProject\bin\NFYProject.pdb
+C:\Users\waseem-Pc\Desktop\sir zahid\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\waseem-Pc\Desktop\sir zahid\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\waseem-Pc\Desktop\sir zahid\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\NFYProject\bin\NFYProject.dll.config
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\NFYProject\bin\NFYProject.dll
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\NFYProject\bin\NFYProject.pdb
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\waseem-Pc\Desktop\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\NFYProject\bin\NFYProject.dll.config
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\NFYProject\bin\NFYProject.dll
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\NFYProject\bin\NFYProject.pdb
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\waseem-Pc\Documents\Visual Studio 2013\Projects\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+E:\FYP\revize\6\NFYProject\NFYProject\NFYProject\bin\NFYProject.dll.config
+E:\FYP\revize\6\NFYProject\NFYProject\NFYProject\bin\NFYProject.dll
+E:\FYP\revize\6\NFYProject\NFYProject\NFYProject\bin\NFYProject.pdb
+E:\FYP\revize\6\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+E:\FYP\revize\6\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+E:\FYP\revize\6\NFYProject\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\zubair hassan\Desktop\NFYProject\NFYProject\bin\NFYProject.dll.config
+C:\Users\zubair hassan\Desktop\NFYProject\NFYProject\bin\NFYProject.dll
+C:\Users\zubair hassan\Desktop\NFYProject\NFYProject\bin\NFYProject.pdb
+C:\Users\zubair hassan\Desktop\NFYProject\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\zubair hassan\Desktop\NFYProject\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\zubair hassan\Desktop\NFYProject\NFYProject\obj\Debug\NFYProject.pdb
+C:\Users\zubair hassan\Desktop\zhj\NFYProject\bin\NFYProject.dll.config
+C:\Users\zubair hassan\Desktop\zhj\NFYProject\bin\NFYProject.dll
+C:\Users\zubair hassan\Desktop\zhj\NFYProject\bin\NFYProject.pdb
+C:\Users\zubair hassan\Desktop\zhj\NFYProject\obj\Debug\NFYProject.csprojResolveAssemblyReference.cache
+C:\Users\zubair hassan\Desktop\zhj\NFYProject\obj\Debug\NFYProject.dll
+C:\Users\zubair hassan\Desktop\zhj\NFYProject\obj\Debug\NFYProject.pdb

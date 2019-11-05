@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="dashboard.master.cs" Inherits="NFYProject.Pages.dashboard" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Dashboard</title>
+    
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  <meta name="description" content=""/>
+  <meta name="author" content=""/>
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="other/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/dashboard.css" rel="stylesheet" />
+    
+
+ <%--   other
+    --%>
+  <!-- Custom fonts for this template-->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet"/>
+        
+        <!-- other styles for this template-->
+        <script src="other/js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="other/js/vendor/bootstrap.min.js"></script>
+
+  <!-- Custom styles for this template-->
+        <link href="css/sb-admin-2.min.css" rel="stylesheet"/>
+        <link href="css/style.css" rel="stylesheet" />
+        <%--<link href="other/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="other/css/normalize.css" rel="stylesheet" />
+        <link href="other/css/owl.carousel.css" rel="stylesheet" />
+        <link href="other/css/progressbar.css" rel="stylesheet" />--%></head>
+<body>
+    <form id="form1" runat="server">
+  <table id="maintable" style=" border-collapse: collapse;">
+        <tr style="height:50px">
+            <td style="width:80%;/*background-color:#353539;*/;text-align:center;background-color:#4267B2;">
+               <ul >
+                    <li style="margin-right: 41px;"><a href="dashboard.aspx">Dashboad</a></li>
+                    <li style="margin-right: 41px;"><a href="channels.aspx">Channels</a></li>
+                    <li style="margin-right: 41px;"><a href="plans.aspx">My Plans</a></li>
+                    <li style="margin-right: 41px;"><a href="Earn.aspx">Earn</a></li>
+                    <li style="margin-right: 41px;"><a href="pricing.aspx">Pricing</a></li>
+                     
+                    
+                    
+                </ul>
+            </td>
+              <td style="width:20%;/*background-color:#353539;*/text-align:center;background-color:#4267B2;">
+                  <ul>
+                  <li><a href="#">Profile</a></li>
+                    <li>
+                        <asp:Button ID="Button1" runat="server" Text="Logout" OnClick="Button1_Click" style=" background-color:#4267B2;text-align:center;border:hidden;" /></li>
+                      </ul>
+              </td>
+              
+
+        </tr>
+            
+
+     
+      
+       
+        
+
+
+    </table>
+        <asp:ContentPlaceHolder ID="dashContentPlaceHolder" runat="server">
+
+            <div id="ras" runat="server"></div>
+        </asp:ContentPlaceHolder>
+        
+    </form>
+</body>
+</html>
